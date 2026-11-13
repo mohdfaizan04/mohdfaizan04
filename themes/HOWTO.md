@@ -21,3 +21,7 @@ Nothing else needs registering: the workflows pick up every `themes/*/` folder.
 
 ## Personal text
 `profile.json` at the repo root: `tagline`, `focus` (footer chips), `weakness`. The tagline falls back to your GitHub bio.
+
+## Built-in themes
+`default` (trainer card), `trading` (candles), `terminal` (shell window), `minimal` (light card), `arcade` (XP bar), `blueprint` (technical drawing).
+Name and headline shown above every theme come from `profile.json` (`name`, `headline`).

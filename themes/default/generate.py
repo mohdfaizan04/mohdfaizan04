@@ -10,6 +10,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "scripts"))
 from profile_data import *  # shared GitHub data: USER, days, total, streak, user, repos, langs, ...
 from isocity import iso_city, CSS as CITY_CSS
+from common import HEAD
 
 ROOT = Path(__file__).resolve().parent  # outputs land in this theme's folder
 
@@ -296,7 +297,7 @@ write("assets/footer.svg", f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="
 </g>
 </svg>
 ''')
-write("snippet.md", f'''<p align="center">
+write("snippet.md", HEAD + f'''<p align="center">
   <img src="./themes/default/assets/dashboard.svg" alt="Trainer card with stats, streak and language stack for {esc(USER)}" width="100%" />
 </p>
 
