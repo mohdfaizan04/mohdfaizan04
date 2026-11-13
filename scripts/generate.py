@@ -5,14 +5,14 @@ Writes (relative to the repo root):
   assets/dashboard.svg                         trainer card + stats + streak + languages
   assets/projects.svg                          project cards
 
-Env: PROFILE_USER (default arshadwork-009), GITHUB_TOKEN (optional, raises API rate limit).
+Env: PROFILE_USER (default mohdfaizan04), GITHUB_TOKEN (optional, raises API rate limit).
 """
 import base64, json, math, os, re, textwrap, urllib.request
 from datetime import date, datetime, timezone
 from html import escape as esc
 from pathlib import Path
 
-USER = os.environ.get("PROFILE_USER", "arshadwork-009")
+USER = os.environ.get("PROFILE_USER", "mohdfaizan04")
 TAGLINE = "Backend Developer · Cybersecurity"
 FOCUS = ["Backend", "Cybersecurity"]  # chips in the footer
 MOOD = None  # set a fixed string (e.g. "Hunting bugs") to override the automatic, streak-based mood

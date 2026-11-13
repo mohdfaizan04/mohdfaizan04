@@ -20,7 +20,7 @@ jobs:
           python-version: "3.12"
       - run: python scripts/generate.py
         env:
-          PROFILE_USER: arshadwork-009
+          PROFILE_USER: mohdfaizan04
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit if changed
         run: |
