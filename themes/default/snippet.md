@@ -1,3 +1,6 @@
+<h1 align="center">Mohd Faizan</h1>
+<p align="center"><b>Turning small ideas into dependable software.</b></p>
+
 <p align="center">
   <img src="./themes/default/assets/dashboard.svg" alt="Trainer card with stats, streak and language stack for mohdfaizan04" width="100%" />
 </p>
