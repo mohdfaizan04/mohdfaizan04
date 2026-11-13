@@ -13,8 +13,8 @@ from html import escape as esc
 from pathlib import Path
 
 USER = os.environ.get("PROFILE_USER", "mohdfaizan04")
-TAGLINE = "Backend Developer · Cybersecurity"
-FOCUS = ["Backend", "Cybersecurity"]  # chips in the footer
+TAGLINE = "Associate Developer"
+FOCUS = ["Associate Dev"]  # chips in the footer
 MOOD = None  # set a fixed string (e.g. "Hunting bugs") to override the automatic, streak-based mood
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -234,7 +234,7 @@ card = f'''<defs>
 <text x="180" y="298" font-size="10.5" font-style="italic" fill="#cbd5e1" text-anchor="middle">{esc(TAGLINE)} · LV {active}</text>
 {rows}
 <line x1="28" y1="480" x2="332" y2="480" stroke="#2dd4bf" stroke-opacity="0.5"/>
-<text x="28" y="498" font-size="10.5" fill="#94a3b8">weakness  <tspan fill="#f8fafc">unvalidated input ×2</tspan></text>
+<text x="28" y="498" font-size="10.5" fill="#94a3b8">weakness  <tspan fill="#f8fafc">off-by-one ×2</tspan></text>
 <text x="332" y="498" font-size="10.5" fill="#94a3b8" text-anchor="end">retreat  <tspan fill="#f8fafc">0</tspan></text>
 <text x="28" y="516" font-size="10" fill="#64748b">Repos {user["public_repos"]} · Followers {user["followers"]} · Stars {stars}</text>
 <text x="332" y="516" font-size="10" fill="#64748b" text-anchor="end">{next_txt}</text>
