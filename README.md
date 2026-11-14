@@ -2,23 +2,23 @@
 <p align="center"><b>Turning small ideas into dependable software.</b></p>
 
 <p align="center">
-  <img src="./themes/trading/assets/dashboard.svg" alt="Trading dashboard with weekly candles, stats and language allocation for mohdfaizan04" width="100%" />
+  <img src="./themes/default/assets/dashboard.svg" alt="Trainer card with stats, streak and language stack for mohdfaizan04" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="./themes/trading/assets/city.svg" alt="Volume skyline of contributions" width="100%" />
+  <img src="./themes/default/assets/city.svg" alt="3D contribution graph" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/mohdfaizan04?tab=repositories"><img src="./themes/trading/assets/projects.svg" alt="Watchlist of mohdfaizan04's repositories" width="100%" /></a>
+  <a href="https://github.com/mohdfaizan04?tab=repositories"><img src="./themes/default/assets/projects.svg" alt="Projects by mohdfaizan04" width="100%" /></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/mohdfaizan04"><img src="./themes/trading/assets/footer.svg" alt="mohdfaizan04 · Associate Developer" width="100%" /></a>
+  <a href="https://github.com/mohdfaizan04"><img src="./themes/default/assets/footer.svg" alt="mohdfaizan04 · Associate Developer" width="100%" /></a>
 </p>
