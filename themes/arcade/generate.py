@@ -6,6 +6,9 @@ from common import *
 
 ROOT = Path(__file__).resolve().parent
 MONO, PINK, CY, YL = "'Courier New',Consolas,monospace", "#ff2e97", "#00f0ff", "#ffe600"
+RANKS = [(0, "Rookie"), (100, "Player"), (500, "Veteran"), (1500, "Elite"), (3000, "Champion")]  # (min contributions, title)
+rank_i = max(i for i, r in enumerate(RANKS) if total >= r[0])
+rank_name = RANKS[rank_i][1]
 lo, hi = RANKS[rank_i][0], (RANKS[rank_i + 1][0] if rank_i + 1 < len(RANKS) else max(total, 1))
 xp = min(1, (total - lo) / max(hi - lo, 1))
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" role="img" aria-label="Arcade card for {esc(USER)}: level {rank_i + 1}, {total} XP">
