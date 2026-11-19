@@ -2,23 +2,23 @@
 <p align="center"><b>Turning small ideas into dependable software.</b></p>
 
 <p align="center">
-  <img src="./themes/trading/assets/dashboard.svg" alt="Trading dashboard with weekly candles, stats and language allocation for mohdfaizan04" width="100%" />
+  <img src="./themes/terminal/assets/session.svg" alt="Terminal session with stats, streaks, weekday activity and languages for mohdfaizan04" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="./themes/trading/assets/city.svg" alt="Volume skyline of contributions" width="100%" />
+  <img src="./themes/terminal/assets/heatmap.svg" alt="Contribution calendar heatmap" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/mohdfaizan04?tab=repositories"><img src="./themes/trading/assets/projects.svg" alt="Watchlist of mohdfaizan04's repositories" width="100%" /></a>
+  <a href="https://github.com/mohdfaizan04?tab=repositories"><img src="./themes/terminal/assets/repos.svg" alt="Repositories of mohdfaizan04" width="100%" /></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/mohdfaizan04"><img src="./themes/trading/assets/footer.svg" alt="mohdfaizan04 · Associate Developer" width="100%" /></a>
+  <a href="https://github.com/mohdfaizan04"><img src="./themes/terminal/assets/prompt.svg" alt="mohdfaizan04 · Associate Developer" width="100%" /></a>
 </p>
