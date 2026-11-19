@@ -2,23 +2,17 @@
 <p align="center"><b>Turning small ideas into dependable software.</b></p>
 
 <p align="center">
-  <img src="./themes/terminal/assets/session.svg" alt="Terminal session with stats, streaks, weekday activity and languages for mohdfaizan04" width="100%" />
+  <img src="./themes/soc/assets/dashboard.svg" alt="SOC dashboard with events, activity level and alert severity for mohdfaizan04" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="./themes/terminal/assets/heatmap.svg" alt="Contribution calendar heatmap" width="100%" />
+  <img src="./themes/soc/assets/calendar.svg" alt="Alert calendar coloured by severity" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/mohdfaizan04?tab=repositories"><img src="./themes/terminal/assets/repos.svg" alt="Repositories of mohdfaizan04" width="100%" /></a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/mohdfaizan04"><img src="./themes/terminal/assets/prompt.svg" alt="mohdfaizan04 · Associate Developer" width="100%" /></a>
+  <a href="https://github.com/mohdfaizan04?tab=repositories"><img src="./themes/soc/assets/feed.svg" alt="Asset feed of mohdfaizan04's repositories" width="100%" /></a>
 </p>
