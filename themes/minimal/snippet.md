@@ -2,5 +2,5 @@
 <p align="center"><b>Turning small ideas into dependable software.</b></p>
 
 <p align="center">
-  <a href="https://github.com/mohdfaizan04"><img src="./themes/minimal/assets/dashboard.svg" alt="mohdfaizan04 · Associate Developer · 982 contributions" width="100%" /></a>
+  <a href="https://github.com/mohdfaizan04"><img src="./themes/minimal/assets/dashboard.svg" alt="mohdfaizan04 · Associate Developer · 1002 contributions" width="100%" /></a>
 </p>
